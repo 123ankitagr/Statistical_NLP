@@ -1,3 +1,3 @@
 # Statistical_NLP
 
-Assignents for the course on Statistical Natural Language Processing, summer semester 2020, Saarland University
+Assignments for the course on Statistical Natural Language Processing, Summer Semester 2020, Saarland University, Germany
